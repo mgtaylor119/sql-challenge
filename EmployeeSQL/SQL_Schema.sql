@@ -5,6 +5,12 @@ drop table if exists employees cascade;
 drop table if exists salaries cascade;
 drop table if exists titles cascade;
 
+create table titles(
+	title_id varchar not null,
+	title varchar not null,
+	PRIMARY KEY (title_id)
+);
+
 create table employees(
 	emp_no int,
 	emp_title varchar not null,
@@ -13,7 +19,9 @@ create table employees(
 	last_name varchar not null,
 	sex varchar(1) not null,
 	hire_date varchar not null,
-	PRIMARY KEY (emp_no)
+	PRIMARY KEY (emp_no),
+	FOREIGN KEY (emp_title) REFERENCES titles(title_id)
+	
 );
 
 create table departments(
@@ -43,8 +51,4 @@ create table salaries(
 	FOREIGN KEY (emp_no) references employees(emp_no)
 );
 
-create table titles(
-	title_id varchar not null,
-	title varchar not null,
-	PRIMARY KEY (title_id)
-);
+
