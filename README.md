@@ -7,7 +7,7 @@ Once the ERD was complete, I completed all of the queries.
 ![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_1.png?raw=true)
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986. 
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_2.png?raw=true)
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
 ![alt text]
