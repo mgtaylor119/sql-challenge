@@ -13,7 +13,7 @@ Once the ERD was complete, I completed all of the queries.
 ![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_3.png?raw=true)
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_4.png?raw=true)
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 ![alt text]
