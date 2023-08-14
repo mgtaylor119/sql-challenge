@@ -1,6 +1,6 @@
 # sql-challenge
 I buit all of the tables and put in all of the columns with their specific data types, primary keys, and foreign keys. I then created an Entity Relationship Diagram shown below in PgAdmin 4. 
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Entity_Relationship_Diagram.png?raw=true)
 
 Once the ERD was complete, I completed all of the queries. 
 1. List the employee number, last name, first name, sex, and salary of each employee.
