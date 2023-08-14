@@ -10,7 +10,7 @@ Once the ERD was complete, I completed all of the queries.
 ![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_2.png?raw=true)
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_3.png?raw=true)
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 ![alt text]
