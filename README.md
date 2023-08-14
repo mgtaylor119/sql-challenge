@@ -25,4 +25,4 @@ Once the ERD was complete, I completed all of the queries.
 ![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_7.png?raw=true)
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_8.png?raw=true)
