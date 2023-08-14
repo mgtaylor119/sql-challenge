@@ -16,7 +16,7 @@ Once the ERD was complete, I completed all of the queries.
 ![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_4.png?raw=true)
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-![alt text]
+![alt text](https://github.com/mgtaylor119/sql-challenge/blob/main/Query%20Images/Query_5.png?raw=true)
 
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 ![alt text]
